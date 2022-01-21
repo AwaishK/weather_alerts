@@ -1,0 +1,9 @@
+fastapi
+psycopg2
+pandas
+sqlalchemy
+fastapi-utils
+pytest
+requests
+alembic
+crontab
