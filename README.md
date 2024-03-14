@@ -45,8 +45,8 @@ Please ensure you have database with the name `weather_alerts` and `test_weather
 Run the following commands to clone the project and then create virtual enviroment
 
 ```bash
-git clone git@github.com:AwaishK/dataminr_test.git
-cd dataminr_test
+git clone git@github.com:AwaishK/weather_alerts.git
+cd weather_alerts
 make dev-env
 ```
 
